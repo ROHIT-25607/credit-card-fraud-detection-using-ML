@@ -6,7 +6,15 @@ A machine learning web app to detect fraudulent credit card transactions using R
 [Add Streamlit link here after deployment]
 
 ## Screenshots
-(Add screenshots here)
+
+### App Interface
+![App Interface](screenshots/image3.png)
+
+### Input Features
+![Input Features](screenshots/image1.png)
+
+### Prediction Result
+![Prediction Result](screenshots/image2.png)
 
 ## About
 Credit card fraud detection is a classic imbalanced classification problem. This project uses SMOTE to handle class imbalance and Random Forest to classify transactions as fraudulent or legitimate.
