@@ -3,7 +3,7 @@
 A machine learning web app to detect fraudulent credit card transactions using Random Forest classifier.
 
 ## Live Demo
-[Add Streamlit link here after deployment]
+![Live Demo](https://credit-card-fraud-detection-using-ml-dyhneswqndchxzvxlydsxb.streamlit.app/)
 
 ## Screenshots
 
